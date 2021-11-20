@@ -1,15 +1,3 @@
-/**
- * @name Simp Neonity
- * @version 6.9.0
- * @description A semi-transparent highly customizable theme
- * @author Tywary
- *
- * @website http://github.com/Tywary
- * @source https://github.com/Tywary/
- * @donate https://zapina.itch.io
- * @invite xJ8Ft8HVuv
- */
-
 :root {
     --app-bg: url(https://assets.wallpapersin4k.org/uploads/2017/04/Black-Transparent-Wallpaper-11.png);
     --app-blur: 6px;
